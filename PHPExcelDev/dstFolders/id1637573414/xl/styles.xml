@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac">
+    <numFmts count="2"><numFmt formatCode="0" numFmtId="2"/>    </numFmts>
+    <fonts count="3" x14ac:knownFonts="1">
+        <font>
+                        
+<sz val="14"/>
+            <color rgb="000000"/>
+            <name val="Times New Roman"/>
+            <family val="2"/>
+            <scheme val="minor"/>
+        </font>
+        <font>
+                        <b/>
+<sz val="14"/>
+            <color rgb="000000"/>
+            <name val="Times New Roman"/>
+            <family val="2"/>
+            <scheme val="minor"/>
+        </font>
+        <font>
+                        
+<sz val="10.5"/>
+            <color rgb="ffffff"/>
+            <name val="Times New Roman"/>
+            <family val="2"/>
+            <scheme val="minor"/>
+        </font>
+    </fonts>
+    <fills count="6">
+        <fill>
+            <patternFill patternType="none"/>
+        </fill>
+        <fill>
+            <patternFill patternType="gray125"/>
+        </fill>
+        <fill>
+            <patternFill patternType="solid">
+                <fgColor rgb="nnoonnee"/>
+                <bgColor indexed="64"/>
+            </patternFill>
+        </fill>
+        <fill>
+            <patternFill patternType="solid">
+                <fgColor rgb="4f81bd"/>
+                <bgColor indexed="64"/>
+            </patternFill>
+        </fill>
+        <fill>
+            <patternFill patternType="solid">
+                <fgColor rgb="dbe5f1"/>
+                <bgColor indexed="64"/>
+            </patternFill>
+        </fill>
+        <fill>
+            <patternFill patternType="solid">
+                <fgColor rgb="ddffdd"/>
+                <bgColor indexed="64"/>
+            </patternFill>
+        </fill>
+    </fills>
+    <borders count="2">
+        <border>
+            <left/>
+            <right/>
+            <top/>
+            <bottom/>
+            <diagonal/>
+        </border>
+        <border>
+            <left style="thin"><color rgb="000000"/></left>
+            <right style="thin"><color rgb="000000"/></right>
+            <top style="thin"><color rgb="000000"/></top>
+            <bottom style="thin"><color rgb="000000"/></bottom>
+            <diagonal/>
+        </border>
+    </borders>
+    <cellStyleXfs count="1">
+        <xf numFmtId="0" fontId="0" fillId="0" borderId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+    </cellStyleXfs>
+    <cellXfs count="9">
+<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfsId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment horizontal="right" wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="0" fillId="0" fontId="1" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment horizontal="center" wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="1" fillId="3" fontId="2" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment vertical="center" wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="1" fillId="0" fontId="0" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="1" fillId="4" fontId="0" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="1" borderId="1" fillId="0" fontId="0" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="1" borderId="1" fillId="5" fontId="0" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+        <xf numFmtId="0" borderId="1" fillId="5" fontId="0" xfId="0" applyAlignment="1" applyNumberFormat="1" applyFill="1" applyFont="1" applyBorder="1"><alignment wrapText="1"/></xf>
+    </cellXfs>
+    <cellStyles count="1">
+        <cellStyle xfId="0" builtinId="0" name="Обычный"/>
+    </cellStyles>
+    <dxfs count="0"/>
+    <tableStyles count="0" defaultTableStyle="TableStyleMedium2" defaultPivotStyle="PivotStyleMedium9"/>
+</styleSheet>
